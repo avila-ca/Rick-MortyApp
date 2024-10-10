@@ -16,6 +16,14 @@ Rick and Morty App és una aplicació web desenvolupada amb React i TypeScript q
 1. **Clona el repositori**:
    ```bash
    git clone https://github.com/username/rick-and-morty-character-viewer.git
+   ```
+2. **Instala les dependències**:
+   ```bash
    cd rick-mortyApp
    npm i
+   ```
+3. **Executa l'aplicació**:
+   ```bash
    npm run dev
+   
+   ```
