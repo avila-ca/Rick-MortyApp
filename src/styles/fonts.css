@@ -1,0 +1,8 @@
+/* src/styles.css */
+@font-face {
+    font-family: "Get Schwifty";
+    src: url("./assets/fonts/get_schwifty.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
